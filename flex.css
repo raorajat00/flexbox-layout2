@@ -1,0 +1,56 @@
+.header {
+    color: green;
+    margin-left: 65px;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1000px;
+}
+
+.score1 {
+    margin-bottom: 20px;
+    color: red;
+}
+
+.score2 {
+    margin-bottom: 20px;
+}
+
+.match1 {
+    margin-bottom: 20px;
+}
+
+.match2 {
+    margin-bottom: 20px;
+}
+
+.match3 {
+    margin-bottom: 20px;
+}
+
+.test1 {
+    margin-bottom: 20px;
+}
+
+.test2 {
+    margin-bottom: 20px;
+}
+
+.test3 {
+    margin-bottom: 20px;
+}
+
+.oneday1 {
+    margin-bottom: 20px;
+}
+
+.oneday2 {
+    margin-bottom: 20px;
+}
+
+
+.oneday3 {
+    margin-bottom: 20px;
+}
